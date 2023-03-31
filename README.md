@@ -2,7 +2,7 @@
 
 Good luck digging through my stuff... ;) 
 
-I have lost here years ago, but in most cases it's the original work based on my own research and never publised anywhere else.
+I have lost here years ago, but in most cases it's the original work based on my own research and never published anywhere else.
 
 If you want to be up to date, I think https://twitter.com/0gtweet is the best option.
 
