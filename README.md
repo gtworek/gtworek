@@ -6,9 +6,9 @@ I have lost here years ago, but in most cases it's the original work based on my
 
 If you want to be up to date, I think https://twitter.com/0gtweet is the best option.
 
-<img src = "https://github-readme-stats.vercel.app/api?username=gtworek&show_icons=true&theme=dark&hide_border=true" width = 400>
+<!-- img src = "https://github-readme-stats.vercel.app/api?username=gtworek&show_icons=true&theme=dark&hide_border=true" width = 400 -->
 <br>
-<!- img src = "https://github-readme-streak-stats.herokuapp.com?user=gtworek&theme=dark&hide_border=true" width = 400 !>
+<!-- img src = "https://github-readme-streak-stats.herokuapp.com?user=gtworek&theme=dark&hide_border=true" width = 400 -->
 
 
 <!--
