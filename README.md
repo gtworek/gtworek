@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Github Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=gtworek&show_icons=true&theme=nord&hide_title=true&hide_rank=true)<!-- -->![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtworek&layout=compact&theme=nord)
